@@ -3,15 +3,17 @@ export carparinello, hubbardparams, phonon, pwscf
 
 using CompilerSupportLibraries_jll
 using FFTW_jll
+using Libxc_jll
 using MPICH_jll
 using OpenBLAS32_jll
+using SCALAPACK_jll
 JLLWrappers.@generate_wrapper_header("QuantumEspresso")
 JLLWrappers.@declare_executable_product(carparinello)
 JLLWrappers.@declare_executable_product(hubbardparams)
 JLLWrappers.@declare_executable_product(phonon)
 JLLWrappers.@declare_executable_product(pwscf)
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, FFTW_jll, MPICH_jll, OpenBLAS32_jll)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, FFTW_jll, Libxc_jll, MPICH_jll, OpenBLAS32_jll, SCALAPACK_jll)
     JLLWrappers.@init_executable_product(
         carparinello,
         "bin/cp.x",
