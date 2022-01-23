@@ -1,330 +1,396 @@
 [[QuantumEspresso]]
 arch = "aarch64"
-git-tree-sha1 = "024507444b85426c3eda1166477885b8f8901dad"
+git-tree-sha1 = "50b126c9a9eef713e1d61aec96bb129904e31f6b"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "d1333918f4c858a50d0e214411c941138b9fd4b3c3eef76bb2341a9d72e65bf2"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "2cc2650abfade52c31339172ee5aa6c968d389833422e37e1a3d1d0fdd1d1c40"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[QuantumEspresso]]
 arch = "aarch64"
-git-tree-sha1 = "786e80bede4e572c992e28eebfe9d2aa1dc0dcd4"
+git-tree-sha1 = "3ec87b5d11f620925eaab72741761809a7942605"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "1a62d0fbeda15af31734807edbec9ec387c834dfaa6af57714505b1950616a08"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "c6fa1ba51b2669853bad1e307bd788abc8ed622aec627652dca60fb4416c79f2"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[QuantumEspresso]]
 arch = "aarch64"
-git-tree-sha1 = "23f2b68f1c97de14b824d22bbdad8159a186d68b"
+git-tree-sha1 = "68fdd8ffd7da534c0485b7c8289e56965852e6d3"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "b58b84c5d586f753f886118aa9b0049cb02c3e67ea5b7104d0e8c98540c165f4"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "ea3096dbdc2817eec3047da1b4bbb44ef88e7a642e38374f1167734ef0d87706"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[QuantumEspresso]]
 arch = "aarch64"
-git-tree-sha1 = "3ebd8ebf70a5c3b49768301cdc6e1a81a42c7987"
+git-tree-sha1 = "fc046e406229cde1416d164e8ecc35babb215859"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "5233d2976d4e82e597bdec02a2fdf6df6d4b0e285313b80620712e31df7c1484"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "505efd8e5782ad0a5c0520bc090527358f08e0df5018c48e843873153e3e72b1"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.aarch64-linux-musl-libgfortran3.tar.gz"
 [[QuantumEspresso]]
 arch = "aarch64"
-git-tree-sha1 = "63db237e9876988c4214cf32fd57e9fe6d160269"
+git-tree-sha1 = "d72f033a2b3aff0f1c9e9d5886f45fc294d27d16"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "8478650b5bf8c336385c081899f895b3827d4b22dd2746c4c0541316a68fef8e"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "18dfca98a3df6bfedeb18283290990747be3b6653dadb3099599fcbc1bc67fea"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.aarch64-linux-musl-libgfortran4.tar.gz"
 [[QuantumEspresso]]
 arch = "aarch64"
-git-tree-sha1 = "e31b58a3ea482f945e3e3847b1c91d6c1db378cf"
+git-tree-sha1 = "8015cf3c0411b03c58b38a63926d13288959e8a2"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "e60185cd49f60a39b59963e926ca3bd07e94e5e8ea1d6b6892a6b8c03d449882"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "f635664e16ea2c54f107d5cb42bda8ca03d5ca08b6cec28ec2c29d462b0e0a92"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.aarch64-linux-musl-libgfortran5.tar.gz"
 [[QuantumEspresso]]
-arch = "armv7l"
+arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "2c6ddc99ba1338c64f13985462eda6cdf52728fc"
+git-tree-sha1 = "56c807c24b050b8c0de4282b39f31db6ca9b351c"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "6d06f06cd41e9b26a53183bd66b06de503ff676b577d16d568be5de6c8f68353"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "b5a21fe72c56d1057456d6d4b75b8a253612ab1dfdaff4da103b5d42343a2be2"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[QuantumEspresso]]
-arch = "armv7l"
+arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d280ec5f2c6e95f0960a0987befd67452727e01c"
+git-tree-sha1 = "4e070b4d93ebbbcda42028cadc46e35a15e2e781"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "0a80d9b5c33f78a141f3673379ddf5caaf3938bf6d1bcf0fdac5275bbea8e0e7"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "97612721f30ea8e1d087b3f04dad2431b890b15c798946514ee63b6a36b4f9c5"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[QuantumEspresso]]
-arch = "armv7l"
+arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "47b08a4a5bb3864450e67ad9a3bb10401907c607"
+git-tree-sha1 = "f0fe7ab81db5ff15b37c86365628a4d58ab81781"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "e4019c48199dc4d7e468dc9e9c779eaa1edb14ba7a57e3c751354c1ca8d33b31"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "bb9ef5ff3da35b315dd5d682cf35446afbd8f519e77cf6d42bc0ce363932c597"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[QuantumEspresso]]
-arch = "armv7l"
+arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e2614c332fe2e2c8093c3e2934f281390aee2de7"
+git-tree-sha1 = "9556601d9b2e07a56101f9cd3674b4b8ac3f05ee"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "c41e04ad81805a5a2fc720eb2fe43bd564eeb11a3696bc60403249db3428b729"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "e6d88ea320dab0c4647c0c39a277124080f815616b2c3d380e6664c85fdf5f5a"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[QuantumEspresso]]
-arch = "armv7l"
+arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "cf854de4353a0d25c3f6ec4bcf30823faee3dc49"
+git-tree-sha1 = "df84d55bdcd07857bb5304f4e240bbc590aeba3c"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "c5c1c97410551ac8782088955e57ddf8a6fa2a08aa2c5c89ab7fb7a8b2a0a3e0"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "f9f8e9e8d4feac298659943ab1f73ce374212322fc7f79f724550a9b02be3b7b"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[QuantumEspresso]]
-arch = "armv7l"
+arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "6ead8a9d6f1883905253c91e9c24e1b7680ee7d4"
+git-tree-sha1 = "f04ae5d03814f18c8ec5adb44f8950952a3dc5cf"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "323cf971b5c1b66cd138b457b74683bbe66be48e41d22180934aabe742d11a25"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "6f6f82499736a9081d6836ded8fcd7197bb1d93af7e9110738022dc39db9843d"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[QuantumEspresso]]
-arch = "i686"
-git-tree-sha1 = "c77e85f66d11f2841e4c1b611228e36407b38f38"
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e891565c9e1b93202629f06658298320a46c3ad1"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "75e9b510824d6711cc2ce633ac048db57bcd5f572b50d69ed4480384d0087d64"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.i686-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "a7de18c368bf61ded89d63948b2355c4aebdbcfbb1172188d6dda098d0ab3c8e"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[QuantumEspresso]]
-arch = "i686"
-git-tree-sha1 = "2da04f54d945cc6d7b13cef80c1130a69ac125b2"
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8f7919e121878c3c75fbfe63183c53294e769bb0"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "1d4d178ffa64c7f186b3960f9075350e61484c6c1e492e1a9b4419a0b4e17a7f"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "1db6928e5f0856ab4247380f873902a421ee5fbf615f795367747832484cd8cc"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[QuantumEspresso]]
-arch = "i686"
-git-tree-sha1 = "e80d2fcc0a9fda6fdd148d60e1a52f2a43b2f233"
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f4599edab2c09aed04d91ad771a9ec2df46bf4dc"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "16cf745a44d5b44607946a77669bb5829b0bd821fe990aa63db1baef376c59d2"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "11fc655179b697e9d53eacc9da29c7e92b3f673afef54263c10fa55938e44cdd"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[QuantumEspresso]]
-arch = "i686"
-git-tree-sha1 = "468d1718fd892fc1fed7b3d294ef4616e4aa6295"
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b34f9f204e9c8759d78d305d4da1e4cfbaa37748"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "715ada56a05a2729f894f6d99626150da32d6357b1c53ac002ed5399ff1a2ca5"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.i686-linux-musl-libgfortran3.tar.gz"
+    sha256 = "3ae213ec43133935185085acbabfb08745ac2c93e58b86b6cd01deb9018db4dc"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[QuantumEspresso]]
-arch = "i686"
-git-tree-sha1 = "17c0bc126054386c7714459723db1aab4cc3cf4a"
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "46c86ee0288f516eda6af2a846abb0c76f8a45bf"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "0a72487a0da178222226933f782776ea7fb3ada7475fb2fd398fad58c2ba990e"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "85a67b851ce1d2646138a13afff13754b10ffd96017e71c7782009b9b2c43980"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[QuantumEspresso]]
-arch = "i686"
-git-tree-sha1 = "2d230f31077c8f9dfe654e82ded583260a6f7e90"
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e6a8d37a8794690f18d697b5017c873f1ccfaaf3"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "1ba14da8e41dd82b669311877845e8cda8934450deecfa7885f31cf693e595c9"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "1d7e55f6060bc7d284c73230a297e1e8286705d345f2dbb7c57ff5e008f400e3"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[QuantumEspresso]]
+arch = "i686"
+git-tree-sha1 = "8a245bab6592118b97c81637d872fc15040f5f70"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QuantumEspresso.download]]
+    sha256 = "77cf111013af21b72b52a27d95a54b31a21281c6f38f49aa75cb041406c2ec78"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[QuantumEspresso]]
+arch = "i686"
+git-tree-sha1 = "265c23f61849f8d649e006f748e875124a3c1429"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QuantumEspresso.download]]
+    sha256 = "81a171e954c0312ab07e15bdfcbd4877da4d3ad4ceb8dd9731573ba780eb566f"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[QuantumEspresso]]
+arch = "i686"
+git-tree-sha1 = "262b915cfb390309e7c2e0515860780de63b128a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QuantumEspresso.download]]
+    sha256 = "0c9831b390b79fbabf90f458e6c4c7cbbde1d672ff4e8859fb6fdcabbe933b7f"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[QuantumEspresso]]
+arch = "i686"
+git-tree-sha1 = "a45cb54d9cf797e621da752d9f1c9e6cde4cb7ef"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QuantumEspresso.download]]
+    sha256 = "31742e87af823c10b93e0e16c8cc7c2df7291f66b99e5e5e37082f616c82ff1f"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.i686-linux-musl-libgfortran3.tar.gz"
+[[QuantumEspresso]]
+arch = "i686"
+git-tree-sha1 = "fbb4828b9b4398c581ddbaa34b7637138fe5eb7f"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QuantumEspresso.download]]
+    sha256 = "71250064076a610c0b26e381239a1fc79f23d1d2afb59e4eec54b9a314eb8110"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.i686-linux-musl-libgfortran4.tar.gz"
+[[QuantumEspresso]]
+arch = "i686"
+git-tree-sha1 = "9875b9d62b778bc200cffb44eab14d11302c35d2"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QuantumEspresso.download]]
+    sha256 = "3685bbb508f6620f87a1f9c129d9b35b629ad4f9da37ea32382eb3b155526d84"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.i686-linux-musl-libgfortran5.tar.gz"
 [[QuantumEspresso]]
 arch = "powerpc64le"
-git-tree-sha1 = "d88d5f00b67b56664f0a9496412040ef5003b6ec"
+git-tree-sha1 = "0dd351bd2ad628366d815852887071d0b028cfaf"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "85796d9edd61ed4197649dbfe5f67be48bc1488d79c6bc364ef5a0eedcf28f35"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "22f08663164f89c5cdffd6c46ba000ee3ee4bff9948e57b925aa35df6705061d"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[QuantumEspresso]]
 arch = "powerpc64le"
-git-tree-sha1 = "7460a69d4e0a011767332143985959053de981d5"
+git-tree-sha1 = "afa80ad99e17cf925f41d35b98e6bb3a839cfe06"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "71b8582dfc5cc254fc19c6546d609fc559e63ccffd460e506ab3d8e3358bbece"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "2eed67ecc3657185959dc0810c6f95c8944c53dd9306e48c22f3c2a21cea9900"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[QuantumEspresso]]
 arch = "powerpc64le"
-git-tree-sha1 = "0b36b45197b3ace9cf60cab255d793066d2ca02f"
+git-tree-sha1 = "7a62e408851c50d182a41950bd67cbc6875148d2"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "a9bd78209368cd34c998afe788073e7f19b7bbd590ecf1be394cd11be7833926"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "a6b82925b66dd49cb2a1594774075a0e2ab6f0c4db445857b1241bda292bc24c"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "1d21894989de0d1739f4e9db82cf62dfb01f2fc7"
+git-tree-sha1 = "045a2c7fb6587aa0bc66e7355632932f16932551"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[QuantumEspresso.download]]
-    sha256 = "62ad676c7e32377c41e282ab4ce3e94fbc8cf81652613a1836c44dc44d002769"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "8d8871f33ddd0675362572ca23bf4959a5ad1422379c520d39d0c831fdea6fc9"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "affb63d2942b487ad04418256f6c58a69972441f"
+git-tree-sha1 = "a8ac027e613a13babc6927bf6aa5c2e85a2c10d1"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[QuantumEspresso.download]]
-    sha256 = "09790099e33babea2f02ec9bc9554aa06408b97770eaae3cd5c3625149a140ab"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "be101fcf010d3e8c8c2fe1d6484b167994f0bec0618dc656416e2fe359c143a5"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "e87a4ccb3a65ab99e046aa8d52edc40cc7723538"
+git-tree-sha1 = "b9d5f11c0bfb184d45a26e101bd58abac6e2a10d"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[QuantumEspresso.download]]
-    sha256 = "ec9111a33e7949d6e3ed6bf9342e287f1f98ab147f0c9c71ef7f6ce6c109c711"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "af07814fbf862e9d1a0b281255c0d56b730212a01d5382e57cb46a030e5e579f"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "5e374375d0a3d56edacea60bb1f43fe64498f5fc"
+git-tree-sha1 = "bdc2e31cc78db3d36be674e78255c3c80118311e"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "fab71754d2f82a5163a825c38b28c8a16f975591c495f2958bc8429a766de0dc"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "edddb4d8701825c079afe5305441a505473e02810f2782f2bfd25486b92940b3"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "1dec7ba5839e93e530b98bc09f90f51fe2c1c773"
+git-tree-sha1 = "213598abd23dae9d2e117ba1d295bc0066a265e4"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "7ee843d1bff0ccd8dbf6419951b3c860f0729631ca8525aa3acd48ae11cd5ea1"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "6d5d2896e9b4ca977ff4ac5ccd4e56a9c11bcb37d708a35257bbd87dba01977f"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "d3a33ad7ce6c762b96735c49a9261e570370fafc"
+git-tree-sha1 = "356532307ce835ac6aa2a99ef9129cab14b48c13"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "b35816546f75ad65cf9b465997ec489d4ca1f16573b7ce01744fe993c1447bbd"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "57fd3ff2c57585b120db2b181edd7cb56abab5d2433414e5379fbe3eb8f3f1b4"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "b40f33526e3384cbb0dc48bab439e9cfae9ff514"
+git-tree-sha1 = "8b8041d916ded5c3dec48eefdea40b2d98414d4e"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "2b7b64a45de0b5fcb8aa1b0e2fe58917dd12d80a43ea050c968927802c25cbf6"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "a264fb7b8950ff488c696ee80d353da6f7d66d23b90333908b7b3206aa17eaf3"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "179de31fc39edf8b70bb6c71900199a8e7a8b49d"
+git-tree-sha1 = "fb06886d45f00c84eab4b3a83e1ce346156caec3"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "eecbcf6e3f61df7da121015e0a743404d98bcff91e4921be5e537443261dea61"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "08dc0a98fbbcdd2ac30c95d8f441784e7cf372190c56914a29487a7761f8168d"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "df306ca7e3b3b8f4c51b161dc07523407549a9a3"
+git-tree-sha1 = "fb84e2fa40e5246ce92aa369591369dd7a9ff2c4"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "cc467c299063e1e769cb1cdc999ea01f286598db9ec87c6cb91da5a01e6b1a6f"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "0bcb056596437245486d43a8aedfa972ff8b5891949de629be53979744b0584a"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "f5c510cd655633b29188572b2c148fdc92c579f5"
+git-tree-sha1 = "d5a43ae31307f3dbf9981ea1560e8b4f08e882ec"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[QuantumEspresso.download]]
-    sha256 = "3ae0a6a47ea6b85c7b8e62fce48f129b3b0859d74a04a6abc0c285ad1e90e984"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    sha256 = "cc9cadf4d1c6b14c0753480ec40aea8bcdb5b2e17f7507019dfce7140125fb0b"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "5354a4d1198fce2dc05681a008d465148a5317c1"
+git-tree-sha1 = "bccddaf1f4c08a9a59da85779820d952f6d25911"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[QuantumEspresso.download]]
-    sha256 = "e4fa9a49a6668373e9ec7ce4f1b641d1c60e8f9b070a8688c63b78638701b196"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "77f93ff830c7444e287c407e2dac5a94d0239deec5c72457e68b51ebcb5b74c2"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "17a3e3e5b20c1d986c813ee2bc787d58ded03db4"
+git-tree-sha1 = "03baca225bf61e26a60c3f4d2c0e5934fc282b0a"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[QuantumEspresso.download]]
-    sha256 = "78a8f3998b2ce90471fbe953f8a2c8708863ca95973efab2cd0ad4cdc8a80bc8"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v6.7.0+3/QuantumEspresso.v6.7.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "210e9d12fefe976b154fdde393c41fa783ef52c2f761a06330e486fa4bb40df6"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.0.0+0/QuantumEspresso.v7.0.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
