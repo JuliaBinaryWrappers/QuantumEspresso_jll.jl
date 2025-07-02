@@ -7,7 +7,6 @@ using Libxc_jll
 using OpenBLAS32_jll
 using SCALAPACK32_jll
 using OpenMPI_jll
-using MPIPreferences
 JLLWrappers.@generate_wrapper_header("QuantumEspresso")
 JLLWrappers.@declare_executable_product(bands)
 JLLWrappers.@declare_executable_product(carparinello)
