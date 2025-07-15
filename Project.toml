@@ -1,6 +1,6 @@
 name = "QuantumEspresso_jll"
 uuid = "74603b90-2fcf-5710-a7d7-830b31b8b33c"
-version = "7.4.1+0"
+version = "7.4.1+1"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"

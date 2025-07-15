@@ -1,28 +1,28 @@
 [[QuantumEspresso]]
 arch = "aarch64"
-git-tree-sha1 = "1c7a13244f9a5e3e1033067dbaea9bd0727b155c"
+git-tree-sha1 = "f2b3d0e2d573e6e43db85683024958e44e6ff8c3"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[QuantumEspresso.download]]
-    sha256 = "78767b19882a34a2f7e15825fd03fa53673c718a9570b80f6834b861b555541d"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "1388f6e6eca0a598ef239c9529989e476fd65c1785f186ade884b1bb48f5945e"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "aarch64"
-git-tree-sha1 = "95a865ff435bceca9645140a9633120c11f64cc0"
+git-tree-sha1 = "44499294dd785d61e2490522856e8643bef74843"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
 os = "macos"
 
     [[QuantumEspresso.download]]
-    sha256 = "df442e15c18d0d409175ad8fd9b7c9bb067bf8fbb7aea17c84bc85067f80e5bc"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.aarch64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "4a622f3f4d47fd29fa1b97ea18e93f3d7cf5c074f7c902abc5e126b0fbf98d2a"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.aarch64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "aarch64"
-git-tree-sha1 = "216806a294428ea3cd9943fd6ad9da1ff0a8a7cd"
+git-tree-sha1 = "5c107fee00cd71a2c509335716def657bd95a133"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -30,11 +30,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "19e9673edd3061fc761897bd6301465317150646ee3a50f9babba0b7856bdd59"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.aarch64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "4137001097923b0188ea87f8e7c0b0fd164959292ee66d87146501c8102c435b"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.aarch64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "aarch64"
-git-tree-sha1 = "981563d64952241d7c1d2ed571ab3c69598cd2bf"
+git-tree-sha1 = "4bc01becbc6b547b6a719d398d456e5f5d3deaa9"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -42,11 +42,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "cfb06e928d45cac000abf274bb17e3e21ed531999557e297a61262415a4323e5"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.aarch64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "9043c7bbc58a59f59dcf344353e869074ad75937065c95010822bb22bd3ebdf9"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.aarch64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "aarch64"
-git-tree-sha1 = "f80daeaec124258a7069fbf2b74cdddbe9b26c51"
+git-tree-sha1 = "389d6ce85408657d225d9cae0e2d17a980019aa4"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -54,11 +54,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "5607b61db5c8d7cba131c1b749cebbb2e29d2713345aeb8cb294c29220d33b74"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.aarch64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "fdb356c8b51914b22357f0e108c0271e9636097a65f2afbdb6217a8f806d4a1c"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.aarch64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "aarch64"
-git-tree-sha1 = "6ad44183931ff1404f23765fd4c2941cc660019c"
+git-tree-sha1 = "e51898cb6443922b17134c9c817bfedeb5f898b2"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -66,8 +66,8 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "4199966708d45708ce72551363dd572978c24f83f828173d1090e6936ca9e22f"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.aarch64-linux-musl-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "afb3f4a27cb93d1af4022c749cc654b15c7a741c0f1a0848190f589cc34dad3d"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.aarch64-linux-musl-libgfortran5-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "aarch64"
 git-tree-sha1 = "09d711f59d4813ef21cb8a65f0fdc8a70ba60c03"
@@ -78,7 +78,7 @@ os = "freebsd"
 
     [[QuantumEspresso.download]]
     sha256 = "e9be04c05b784432ccb4b37dff1f74ee37e1be59f5538a503d60b9f5f983ed3d"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.aarch64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.aarch64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "aarch64"
 git-tree-sha1 = "0d7bccfa54d59e37f2ec340561e77293cf47310b"
@@ -89,10 +89,10 @@ os = "freebsd"
 
     [[QuantumEspresso.download]]
     sha256 = "4d75f976cf5f952b664496f9f4cc3f38664f01f1efd47f5987809da315e53e75"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.aarch64-unknown-freebsd-libgfortran5-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.aarch64-unknown-freebsd-libgfortran5-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "i686"
-git-tree-sha1 = "209ca1fc4908220b92aa5da7c6315a23ee3517e7"
+git-tree-sha1 = "d650536a555c39c200d872536c2cc4b44eaea388"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -100,11 +100,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "270671bf122cde8305787d235ade587682613d95fee52849f7e5e62e98b5d3ed"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.i686-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "5e11b7f1a8c12be6535509deace382f834dbc0402baa9d72fa7f024114aedc5f"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.i686-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "i686"
-git-tree-sha1 = "09995ac1db6ca8d346aeedbc6c4948817574764b"
+git-tree-sha1 = "d917817fc951879c0306a8bd1d48901991d378bb"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -112,11 +112,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "ae4a50f120bc9131be25dd44d554fe3278aa844d82d32a65573fccff7f59556b"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.i686-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
+    sha256 = "0ce524ebf161928fdbfa6e4875d8f683393b6b06c5d0058550b8724d6f71c9af"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.i686-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "i686"
-git-tree-sha1 = "c975ba9c2ce0680242482f48dc770680991a3645"
+git-tree-sha1 = "4552265e0072b9f0dff2e9b61d02990b924f85c4"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -124,11 +124,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "1548481ef924ce70e9bd1ffacc6ed751173dac2e50f1ff7c93739fbf8ec386c2"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.i686-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "03bf3ff1e97edb0e31e48ebf81b2f93fd70f77063cf94db1dfc12e7b40f6871d"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.i686-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "i686"
-git-tree-sha1 = "52bf175183861dd72537a825c00da99a5c777572"
+git-tree-sha1 = "d3dde97f11581d9f0206a5344f86505c3f3a49d0"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -136,11 +136,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "f0231c402e6298ccb8b1a6def374016e3f7386af081adf2e32937ab31e71a53a"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.i686-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
+    sha256 = "193027fb71d2399f26716003c1f3b0e0a95b862b5ecef1a8bc6531b8fb6343f2"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.i686-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "i686"
-git-tree-sha1 = "8736968f3f004a29f7a5a7d0a318d178cae65d63"
+git-tree-sha1 = "7216e45d70fecda828072fa703bd7b543f7be065"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -148,11 +148,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "154365fbc09e0c5bc28d140dfdf255d8bb153ea84e5d3d120044584511a479aa"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.i686-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "9f11b0c7bafcebce61a2c93713004f1f8b56b079009821eb8863a4850918e8cf"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.i686-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "i686"
-git-tree-sha1 = "ae21e73d36d6a7b4991e244a9198c4ec4c4ac8d0"
+git-tree-sha1 = "487a3c3af3a898f2e2a4802873abb3454a9c9245"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -160,11 +160,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "f0931e22729b7f5c4b328253228549f77ff2d69cb4971dbc3033612961fa2330"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.i686-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "5b3ee881b7c36bdabea22eb62df174afd28f95530f3373fac1eef4b56f61185e"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.i686-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "i686"
-git-tree-sha1 = "51f153a60f7b95c8662300ff4e7b74ab18d0bc94"
+git-tree-sha1 = "81ccd15184b35b4ffe0513e188fdd716c28613da"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -172,11 +172,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "11b9388f4246b1318518ae19d0b008382833b0648aa8840e2523df5a6d1d7193"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.i686-linux-musl-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "f40f68b17f543652a6ab69ca8a30ef15685bca6ee9f1f446ee6f702532de2dee"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.i686-linux-musl-libgfortran3-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "i686"
-git-tree-sha1 = "9e822c15c92328750d92b0e2f4522a1204f09aa4"
+git-tree-sha1 = "1be96f2c852e080fae2b297be54e15962d0d6cc0"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -184,11 +184,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "f359f98b3b4819e3795effbc6825fbf41b28b7a012be28d94c944f033d5b2778"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.i686-linux-musl-libgfortran3-mpi+openmpi.tar.gz"
+    sha256 = "ab192bceff424dcf9bff1af983d13b60610a8e79373a1a708784a633c713ad7d"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.i686-linux-musl-libgfortran3-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "i686"
-git-tree-sha1 = "c76d5d7f63d939c03eb6b99787f868c1e7c45772"
+git-tree-sha1 = "53e7309ed97b88a191c85dd0fdbc5fe593a5e5ed"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -196,11 +196,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "c7c339a8aec56a670f015410b1aad339ae5d8bed32109a5649dfb6d05a179686"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.i686-linux-musl-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "36926e59ffbdfb6e4a7e14d1053345466a60a264fabeeec91f1e2be622223a0b"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.i686-linux-musl-libgfortran4-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "i686"
-git-tree-sha1 = "952768bd1c8792b34e06ee17184b139d08dd9b57"
+git-tree-sha1 = "d41b5d9fdd05b205edbf978d79f720e9efceccac"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -208,11 +208,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "63e640953eded93a18d96c0c67fa9765baf6d4b9881dca04b4f82e6cca1722a4"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.i686-linux-musl-libgfortran4-mpi+openmpi.tar.gz"
+    sha256 = "de045154760fda40fefd47fd711d0809875979129b2311c9eef2b0471615f1fe"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.i686-linux-musl-libgfortran4-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "i686"
-git-tree-sha1 = "0e59db7cef06591a2b0a89e6c22f2dc262991693"
+git-tree-sha1 = "11e49e20cf3a30fc5a8f0c5362ba02c180e2e9d2"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -220,11 +220,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "b111ff50d1193d8b49d850c0e767aba91eefc6ba9e26c489f1dd2950a039a4e5"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.i686-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "7fca9a2347efa2de29790eda52822db25818d9b90c1063ec155194717f8d4faf"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.i686-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "i686"
-git-tree-sha1 = "ed009cffd7e84399a19ff3dcd57e668859a2bbfd"
+git-tree-sha1 = "cef9a5613adaae80200ca801ea942ab08da8a20d"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -232,11 +232,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "d793340cdab875f43ed410f80e697e04463448dc5d5a15b56f7d8b13c6b86191"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.i686-linux-musl-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "6963da5c7a01aa3fd80f78bab08c09b338d310fab3edcb4d64451e7f17b03aa0"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.i686-linux-musl-libgfortran5-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "powerpc64le"
-git-tree-sha1 = "122f9ca32891297595e7e8b9a7f4a3608413e483"
+git-tree-sha1 = "573ac6b4b5fda7d1ddaab13db5f31a3dba89240c"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -244,11 +244,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "3ded440c4ad8c791ee6e5fb644b63f2c91232860b70b2ca40df79a8ac26288dd"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.powerpc64le-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "ac977040bce998b1371c2a0d5b6c0d9c88e390e54f829d1a154ffc4a6eb09594"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.powerpc64le-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "powerpc64le"
-git-tree-sha1 = "70abd9bbb535f2e342bada1b6cf8659dc1f7a59f"
+git-tree-sha1 = "d08681dfc301409c30cc2cf0bf1b77f0f5075b4d"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -256,77 +256,77 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "cfc68ff13d4201dab1b2b01793c79d5b0fb9b9e0427ea69be07b67610f69f107"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.powerpc64le-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "b4733e47a8e4d9778fccb9b6aff6d2adedefc09dd6a9e0c6c3ec8b43f79a1e5e"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.powerpc64le-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "b3a9839da85d9299a1918e93160a8487c4852201"
+git-tree-sha1 = "86be09280a3057a1bb79bfacb6dc6e154f80a1eb"
 lazy = true
 libgfortran_version = "3.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[QuantumEspresso.download]]
-    sha256 = "76a28d210b0267a78525d4f50658e7566b8562d06a6416d5b3f97b514d9bd51b"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-apple-darwin-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "27517fe8335ceead7a446c184aa7ecede2d2cef9c10a76dd6a66ce7c3e0d9966"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-apple-darwin-libgfortran3-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "a8ceb0da8353aab65ecccbbade094417b5d5d851"
+git-tree-sha1 = "e41cb891e1a6e05fd6fbdd4c1856d8e71baedcce"
 lazy = true
 libgfortran_version = "3.0.0"
 mpi = "openmpi"
 os = "macos"
 
     [[QuantumEspresso.download]]
-    sha256 = "4240959258249bdfa756c5c8d227b9c6d88fc224f88738377e5be9afe278334a"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-apple-darwin-libgfortran3-mpi+openmpi.tar.gz"
+    sha256 = "749f4eaa28dab35f058cd8f39d225fec835f4085f467662953079e7e667cff0d"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-apple-darwin-libgfortran3-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "29f2c5f8a694b228846403acea7f9d4b7051ad7c"
+git-tree-sha1 = "a13acdbe64a7aac0f1033d42dbe7dbf8a4de1e18"
 lazy = true
 libgfortran_version = "4.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[QuantumEspresso.download]]
-    sha256 = "b1ce75289cc05de7bacbe06fa0590d599cb666b6bbb1a7a067b69e4d320464e4"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-apple-darwin-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "706ca269212409584c1273210b1bb01548953b46ff182bcdf035f7f826184da0"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-apple-darwin-libgfortran4-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "98710f33e11f1ecba818a7b7fbe1eedf58bbc60b"
+git-tree-sha1 = "001ad003e033ba4abe4db4c1c1d5fe03adbfa343"
 lazy = true
 libgfortran_version = "4.0.0"
 mpi = "openmpi"
 os = "macos"
 
     [[QuantumEspresso.download]]
-    sha256 = "77fa3a48233a51fc82090f01e02a43738956cff6773b78e0556020c2126bcdce"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-apple-darwin-libgfortran4-mpi+openmpi.tar.gz"
+    sha256 = "c2611ceae1ff746a035d046f757089e006ec042d13dd9b38642c6fe5702d72f0"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-apple-darwin-libgfortran4-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "dbef1f762084ede12292460cb0a9f8b2a718f434"
+git-tree-sha1 = "e6a6ecdb4629f38a9c0bf3b0c152463e4069a5e2"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[QuantumEspresso.download]]
-    sha256 = "e5f44c8d938e92008b355ff53a480a57befbb01f9684574ed302bcf336d0197c"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "825588ddfdcc41802279bedf6859c0a51eca4dde39b42799c4a33339be26869f"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "da0139a8747c7fe11af766b4f7327a19c0c7d435"
+git-tree-sha1 = "e557358daf41bcdddecefa9eed58a0eac84ed7cc"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
 os = "macos"
 
     [[QuantumEspresso.download]]
-    sha256 = "806bab4b2b74f7847e337b1004be5b9d993d45c4a7d902c35b93aa5c8c5a0f00"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "f4562df25165cfc7a82f3218ff8eef572a3d1172e5bc3180a5ba5dfa921668c2"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "301061a459a429e37e0d36b8b60578e297725d49"
+git-tree-sha1 = "967f19d48c7623c87fc67ae28409e51814bcd7f9"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -334,11 +334,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "54d9a1fbd3793a8ff605baa7ad02f05c2e74185a2d286fa8599c5b739db6f040"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "146ceeefc93af4a939ea395540a683e099958cd2bb3dc4a7e10a7b73e269bafb"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "393bd56636406f0ad592bb7d15020d666f06804d"
+git-tree-sha1 = "1bf27ff2f2740ea414b7a5e3e70e97b03b0ac318"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -346,11 +346,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "89889d7d09632aa168bfc88e0eb23d89bf6bafa5b31d15e96fc2e063ac8ae341"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
+    sha256 = "23c8fa62adf67c3c9875c1f4114f34e5467aaa0a0dfc37b337d105c31f540d20"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "eeb74155dc314073ac713ca3dae6c647c97f9131"
+git-tree-sha1 = "bc9059e34d0737e4feedf0a7c734a8a118448d95"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -358,11 +358,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "24c2742def3ceb8d2d103113848842cce2c73663e0ac3c33f350a4d7bcc79169"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "5815941b574bf4794100e848db1c5232bdbac2369dfdc2d2422a70b76f34d928"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "9605f5611630b79e1c167b5ef5bd92ab5c4814d3"
+git-tree-sha1 = "9a5cfef74c07f298ac660ab8c535e5f663ee8ed4"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -370,11 +370,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "c121124046e38523763a1bf11567ffe1d01519a02e9296e59766646a08bd2af7"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
+    sha256 = "498c360c09975a39b2b2fff3e964a1dcd24a8100657961240f3c2add02dd3f75"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "b419a56ab3f4d8e5171e4d2700b1e0c2c35b66e4"
+git-tree-sha1 = "78ec55e50eb823e514d96b3bea3044f482e73e8d"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -382,11 +382,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "8b208f60010ce77bfe4109dcac6e63c1979c9f5460c34fc147e5491eaed7e11c"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "a95033e659fae13de71551b56bf929716b729f7ddbd14a105b275eec9241630d"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "d648a3d9d448e3365444c92505f2f1c83bfba6cc"
+git-tree-sha1 = "62190def9afb089c1b0a9ef3631bc748c53960f0"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -394,11 +394,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "fb376ea59c42900351471a03e01c73d6b3ee5f63be82a9c8be43f3fe4c9db189"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "58f0bac34370a6400be188af3a7ad49ed264ad9b4141f0c4b43cb4d93d9bf9de"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "4c4b0e409931d9e336a0f591d630318054502c02"
+git-tree-sha1 = "769b9b5edef29b24ddca221cac10743906299cf5"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -406,11 +406,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "046110f203127ed095f7246f8093379cad8d50adc4a6ccdae480c2e354d856fe"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-linux-musl-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "559a543476d767ca9166d623a36bde8e777d75658f92aeb36728dbd0e4d3c502"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-linux-musl-libgfortran3-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "b66f94f9d6d51ecbbbfb251a530138ce72da4b38"
+git-tree-sha1 = "568895eac0129b9762bbbb1d94ac4deac10a820e"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -418,11 +418,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "ccc4b591455a258e1824d848990a08665549eaefe7a30c67523a6908847e7c66"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-linux-musl-libgfortran3-mpi+openmpi.tar.gz"
+    sha256 = "2b4b33519ce7afa78d47debb76dc56b80a2406a3b0b10fb95e21c15fc9e6c0ac"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-linux-musl-libgfortran3-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "aaec6df16be22560f62dffb8604b9a81272119d9"
+git-tree-sha1 = "34b3aa60b6998235eb1b36f5248176b6be224213"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -430,11 +430,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "cd14e088b4f119e23d09a5532b7ce35e112ba8ca6a822e8e59f0d2f26aab80d3"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-linux-musl-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "f6fbef551c7aecd1b731314ca8445016bd40ac68f322f59005963e20f134afa2"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-linux-musl-libgfortran4-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "5a2161b1e9b22ec5eeaf1a077771a6c85d17384b"
+git-tree-sha1 = "4b0abb7bb151420ad0e0767b5e98d8b4b22db806"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -442,11 +442,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "35082730d6a08aad8020eacb43d58f45f7f1df102847c5bcfa71c7fb9da71145"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-linux-musl-libgfortran4-mpi+openmpi.tar.gz"
+    sha256 = "f47b157d9f8dd2ab6c186ad04cb6ea67a208182acee3e9bb80c7e3ad06798d28"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-linux-musl-libgfortran4-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "299a5ad5b89483bb58ff6c7e032e69441286085e"
+git-tree-sha1 = "261292f1881892596dfe6d6f5bfd5f33ca17af40"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -454,11 +454,11 @@ mpi = "mpich"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "648f0a103892a3151d7ab65dba7dbdcabc3eb53e10fb9bc3baba0f0929c203fb"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "63332eb3e6969c71d44241a05d7d09c801282a9628020c704aa5474d8c5eb9e8"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "b556ec655d44a9034c9ebfef33f0767101348ff9"
+git-tree-sha1 = "368612a6b45f8eb1664f116c0f17b054c720cbff"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -466,71 +466,71 @@ mpi = "openmpi"
 os = "linux"
 
     [[QuantumEspresso.download]]
-    sha256 = "384c78283d9fae4cb70bb43b3d058533c8f6967a62cc5ecb8071d9ad3d02159f"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-linux-musl-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "fce73271af2d99243c900928608742cca59d2800f1e3e7f5082372ba62289283"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-linux-musl-libgfortran5-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "6f7d0131a816b6f6fb5d1b7060813804ee35e990"
+git-tree-sha1 = "e4373fa84bd03adea73ba41fe5ad804b02c8158e"
 lazy = true
 libgfortran_version = "3.0.0"
 mpi = "mpich"
 os = "freebsd"
 
     [[QuantumEspresso.download]]
-    sha256 = "1e96e8c2898596e89c49d926d3546e3a564502c64b2e8506c731cfd4c0b65826"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-unknown-freebsd-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "6a9e0bd193600b0998ed2a1aa137dc6493d8657a8244e65541587a4bba18ae47"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-unknown-freebsd-libgfortran3-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "fb217b632687704a5c42a03f704d6629f35a1382"
+git-tree-sha1 = "f8e05e400aee33c1174d8171291df0674ba47240"
 lazy = true
 libgfortran_version = "3.0.0"
 mpi = "openmpi"
 os = "freebsd"
 
     [[QuantumEspresso.download]]
-    sha256 = "05be56570d0dc46c5e3787fac2e62331f07b99e7e21ed5d1bf3f6191f1f07b84"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-unknown-freebsd-libgfortran3-mpi+openmpi.tar.gz"
+    sha256 = "e3f3f9f09eaaa51b72917f6145605c790e3f36996809a962f48103649e7bf0b7"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-unknown-freebsd-libgfortran3-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "5d0dead83a2a38fa62e6a9258dd3989fb2f2e057"
+git-tree-sha1 = "4032ca88550003e9a36c5c5971361e68f79d6c78"
 lazy = true
 libgfortran_version = "4.0.0"
 mpi = "mpich"
 os = "freebsd"
 
     [[QuantumEspresso.download]]
-    sha256 = "317741321b31dd1e5401e613bd9efb88a319d392be616867eb5ef572ed52828b"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-unknown-freebsd-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "7162261eae28c53edba8a256f8e814f9be7f0ff82a54946397d27682fad5c1f0"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-unknown-freebsd-libgfortran4-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "fda97f6aa1558ba9d1e9df4d5977baea62cf0d06"
+git-tree-sha1 = "5ecd6934e556ddf2ac084b4150458f89a01f377a"
 lazy = true
 libgfortran_version = "4.0.0"
 mpi = "openmpi"
 os = "freebsd"
 
     [[QuantumEspresso.download]]
-    sha256 = "f1dc538f824857b080b03bdfc92c43e8f1a92463c84051446d7976e59ccdae5f"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-unknown-freebsd-libgfortran4-mpi+openmpi.tar.gz"
+    sha256 = "a19bd5c51bde83587f0a48e30df50dc86aee5e536871f58e5ae9f368305c1d6d"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-unknown-freebsd-libgfortran4-mpi+openmpi.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "2018733120c98abe40d6067bb96aab47552b9407"
+git-tree-sha1 = "0ad79d34d0e59a150db80bd640cde1b3a310ab01"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "freebsd"
 
     [[QuantumEspresso.download]]
-    sha256 = "ac181deb4ab3d6fedd9cec7a379d1be18c27422af3e13c4c0cbe90a8740c5a1b"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "0f2a7a07161bd4dd3e4b56c5a7f2d04ea735fb548c162d2cb28b979991541ff8"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
 [[QuantumEspresso]]
 arch = "x86_64"
-git-tree-sha1 = "d378ddb1063da02312a8dc8ed9b37dc99f83942f"
+git-tree-sha1 = "b0b47dad576d4a7a7f09e6862c9daa8a844d7e32"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
 os = "freebsd"
 
     [[QuantumEspresso.download]]
-    sha256 = "1eafcc52dd2d1900a30c9ccee12c86c08d5fde021e312aef943f8532d54511f6"
-    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+0/QuantumEspresso.v7.4.1.x86_64-unknown-freebsd-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "5d8e8ac314f11dedc48ee34a9a0c9fcfe4aefa56f94f5626724af0fbe1eb4fec"
+    url = "https://github.com/JuliaBinaryWrappers/QuantumEspresso_jll.jl/releases/download/QuantumEspresso-v7.4.1+1/QuantumEspresso.v7.4.1.x86_64-unknown-freebsd-libgfortran5-mpi+openmpi.tar.gz"
